@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2721E10A-0D39-4BAC-97AC-51AA714C26F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TCC</RootNamespace>
+    <AssemblyName>TCC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Kinect, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v1.8\Assemblies\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Formularios\FrmCadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Formularios\FrmFase1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Formularios\FrmFase2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Base\CriarEsqueleto.cs" />
+    <Compile Include="Classes\Base\SensorKinect.cs" />
+    <Compile Include="Classes\Base\Util.cs" />
+    <Compile Include="Classes\Cadastro\ConexaoBD.cs" />
+    <Compile Include="Classes\Cadastro\MetodosBanco.cs" />
+    <Compile Include="Classes\Cadastro\UsuarioDAO.cs" />
+    <Compile Include="Classes\Cadastro\UsuarioVO.cs" />
+    <Compile Include="Classes\Movimento\BaseMovimentos.cs" />
+    <Compile Include="Classes\Movimento\GestoFrameChave.cs" />
+    <Compile Include="Classes\Movimento\Gestos\Aceno\Aceno.cs" />
+    <Compile Include="Classes\Movimento\Gestos\Aceno\AcenoCotoveloMao.cs" />
+    <Compile Include="Classes\Movimento\Gestos\Aceno\AcenoMaoCotovelo.cs" />
+    <Compile Include="Classes\Movimento\Gestos\Aceno\AcenoMaoSobreCotovelo.cs" />
+    <Compile Include="Classes\Movimento\Gestos\BaseGesto.cs" />
+    <Compile Include="Classes\Movimento\Poses\Primeira_Serie\FlexaoLateralD.cs" />
+    <Compile Include="Classes\Movimento\Poses\Primeira_Serie\FlexaoLateralE.cs" />
+    <Compile Include="Classes\Movimento\Poses\Alongamento\Primeiro_Along.cs" />
+    <Compile Include="Classes\Movimento\Poses\Alongamento\QuartoD_Along.cs" />
+    <Compile Include="Classes\Movimento\Poses\Alongamento\SegundoD_Along.cs" />
+    <Compile Include="Classes\Movimento\Poses\Alongamento\TerceiroD_Along.cs" />
+    <Compile Include="Classes\Movimento\Poses\Alongamento\TerceiroE_Along.cs" />
+    <Compile Include="Classes\Movimento\Poses\BasePoses.cs" />
+    <Compile Include="Classes\Movimento\EnumEstadoRastreamento.cs" />
+    <Compile Include="Classes\Movimento\ExtensoesEsqueleto.cs" />
+    <Compile Include="Classes\Movimento\IRastreadorEsqueleto.cs" />
+    <Compile Include="Classes\Movimento\Poses\PoseAssalto.cs" />
+    <Compile Include="Classes\Movimento\Poses\PoseT.cs" />
+    <Compile Include="Classes\Movimento\Poses\Primeira_Serie\FortalecimentoOmbrosA.cs" />
+    <Compile Include="Classes\Movimento\Poses\Primeira_Serie\FortalecimentoOmbrosB.cs" />
+    <Compile Include="Classes\Movimento\Poses\Primeira_Serie\VariacaoFortalecimentoA.cs" />
+    <Compile Include="Classes\Movimento\Poses\Primeira_Serie\VaricaoFortalecimentoB.cs" />
+    <Compile Include="Classes\Movimento\RastreadorEsqueleto.cs" />
+    <Compile Include="Formularios\FrmCadastro.xaml.cs">
+      <DependentUpon>FrmCadastro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmFase1.xaml.cs">
+      <DependentUpon>FrmFase1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmFase2.xaml.cs">
+      <DependentUpon>FrmFase2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
