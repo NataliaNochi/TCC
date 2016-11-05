@@ -1,0 +1,185 @@
+﻿<Window x:Name="Inicio" x:Class="TCC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:my="clr-namespace:TCC.Classes.Base"
+        Title="MainWindow" Height="365.789" Width="494.737" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid HorizontalAlignment="Left" Width="487">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+
+        <k:KinectRegion x:Name="kinectRegion" Margin="0,-12,0,0" Background="Black">
+            <Canvas Margin="0,10,10,10">
+                <GroupBox x:Name="gbFases" Header="" Visibility="Hidden" Canvas.Left="3" Height="345" Width="483" Canvas.Top="-9">
+                    <Grid Margin="0,0,21,13">
+                        <my:KinectToggleButton x:Name="btnF1"  Content="FASE 1" KeyboardNavigation.TabIndex="0" Height="Auto" FontSize="16" Foreground="White" Width="120" HorizontalAlignment="Left" Canvas.Left="20" Click="btnF1_Click" Canvas.Top="39" Margin="16,179,0,31" >
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF320949" Offset="0.048"/>
+                                    <GradientStop Color="White" Offset="1"/>
+                                    <GradientStop Color="#FF170B1F" Offset="0.983"/>
+                                    <GradientStop Color="#FF351049" Offset="0.43"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <my:KinectToggleButton x:Name="btnF2"  Content="FASE 2" KeyboardNavigation.TabIndex="1" Height="Auto" FontSize="16" Foreground="White" Width="120" HorizontalAlignment="Left" Canvas.Left="251" Click="btnF2_Click" Canvas.Top="39" Margin="141,179,0,31" >
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF320949" Offset="0"/>
+                                    <GradientStop Color="White" Offset="1"/>
+                                    <GradientStop Color="#FF1B0A25" Offset="0.983"/>
+                                    <GradientStop Color="#FE370F4D" Offset="0.426"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <my:KinectToggleButton x:Name="btnLogoff"  Content="SAIR" KeyboardNavigation.TabIndex="2" Height="100" FontSize="16" Foreground="White" Width="181" HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Canvas.Left="91" Canvas.Top="232" Click="btnLogoff_Click" Margin="266,179,0,0">
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF9E1313" Offset="0.078"/>
+                                    <GradientStop Color="White" Offset="1"/>
+                                    <GradientStop Color="#FFC15656" Offset="1"/>
+                                    <GradientStop Color="#FF5B0000" Offset="0.978"/>
+                                    <GradientStop Color="#FF740808" Offset="0.5"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <Label Content="Bem-Vindo" HorizontalAlignment="Left" Margin="18,63,0,0" VerticalAlignment="Top" Height="38" Width="141" FontSize="24" FontFamily="Segoe UI Light" FontWeight="Bold"/>
+                        <Label Content="Selecione a fase que deseja jogar e boa diversão!!!" HorizontalAlignment="Left" Margin="18,115,0,0" VerticalAlignment="Top" Height="43" Width="418" FontSize="19" FontWeight="Bold" FontFamily="Segoe UI Light"/>
+                        <Image HorizontalAlignment="Left" Height="51" Margin="389,208,0,0" VerticalAlignment="Top" Width="47" Source="Imagens/exit (1).png" RenderTransformOrigin="0.538,0.509" Stretch="Fill">
+                            <Image.OpacityMask>
+                                <ImageBrush ImageSource="Imagens/exit (1).png"/>
+                            </Image.OpacityMask>
+                        </Image>
+
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="gbLogin" Header="" Visibility="Visible" Canvas.Left="3" Height="345" Width="483" Canvas.Top="-9">
+                    <Grid Margin="0,0,20,0">
+                        <my:KinectToggleButton x:Name="btnLogin" Content="LOGIN" KeyboardNavigation.TabIndex="2" Height="Auto" FontSize="16" Foreground="White" Width="150" HorizontalAlignment="Left" Click="btnLogin_Click" Canvas.Left="91" Canvas.Top="185" Margin="88,201,0,63" >
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF320949" Offset="1"/>
+                                    <GradientStop Color="#FF196E25" Offset="0.048"/>
+                                    <GradientStop Color="#FF021A03" Offset="0.991"/>
+                                    <GradientStop Color="#FF14400C" Offset="0.504"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <my:KinectToggleButton x:Name="btnCadastrar" Content="CADASTRAR" KeyboardNavigation.TabIndex="3" Height="59" FontSize="16" Foreground="White" Width="150" HorizontalAlignment="Left" Click="btnCadastrar_Click" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Canvas.Left="251" Canvas.Top="185" Margin="243,201,0,0">
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFBD1717" Offset="0.03"/>
+                                    <GradientStop Color="#FF320949" Offset="1"/>
+                                    <GradientStop Color="#FF530505" Offset="0.957"/>
+                                    <GradientStop Color="#FF850909" Offset="0.47"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <TextBox x:Name="txtLogin" KeyboardNavigation.TabIndex="0" TextWrapping="NoWrap"  Text="Login" GotFocus="txtLogin_GotFocus" LostFocus="txtLogin_LostFocus" Canvas.Left="144" Canvas.Top="88" Margin="142,76,63,216" FontSize="16" KeyUp="txtLogin_KeyUp"/>
+                        <PasswordBox x:Name="txtSenha" KeyboardNavigation.TabIndex="1" Canvas.Left="144" Canvas.Top="129" Margin="142,126,63,164" FontSize="22" Password="senha" GotFocus="txtSenha_GotFocus" LostFocus="txtSenha_LostFocus" KeyUp="txtSenha_KeyUp"/>
+                        <Image HorizontalAlignment="Left" Height="38" Margin="94,72,0,0" VerticalAlignment="Top" Width="43" Source="Imagens/male-user.png" Stretch="Fill" OpacityMask="#FFD31414"/>
+                        <Image HorizontalAlignment="Left" Height="35" Margin="94,124,0,0" VerticalAlignment="Top" Width="43" Source="Imagens/padlock (2).png" Stretch="Fill" OpacityMask="#FFF3E2E2"/>
+                    </Grid>
+                </GroupBox>
+
+                <GroupBox x:Name="gbCadastro" Header="" Visibility="Hidden" Canvas.Left="3" Height="345" Width="483" Canvas.Top="-9">
+                    <Grid>
+                        <my:KinectToggleButton x:Name="btnCancelar" KeyboardNavigation.TabIndex="6" Content="CANCELAR" Height="Auto" FontSize="16" Foreground="White" Width="149" HorizontalAlignment="Left" Canvas.Left="91" Canvas.Top="185" Margin="250,217,0,48" Click="btnCancelar_Click" >
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="Black" Offset="0"/>
+                                    <GradientStop Color="#FF630909" Offset="1"/>
+                                    <GradientStop Color="#FF931A1A"/>
+                                    <GradientStop Color="#FF460A0A" Offset="0.965"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <my:KinectToggleButton x:Name="btnConfirmar" KeyboardNavigation.TabIndex="5" Content="CONFIRMAR" Height="58" FontSize="16" Foreground="White" Width="149" HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Canvas.Left="251" Canvas.Top="185" Margin="97,217,0,0" Click="btnConfirmar_Click">
+                            <my:KinectToggleButton.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FF143E0B" Offset="0.87"/>
+                                    <GradientStop Color="#FF154909" Offset="1"/>
+                                    <GradientStop Color="#FF23870D"/>
+                                    <GradientStop Color="#FF225F15" Offset="0.517"/>
+                                </LinearGradientBrush>
+                            </my:KinectToggleButton.Background>
+                        </my:KinectToggleButton>
+                        <TextBox x:Name="txtCadNome" KeyboardNavigation.TabIndex="0" TextWrapping="NoWrap" Canvas.Left="144" Canvas.Top="88" Margin="157,51,78,246" FontSize="18"/>
+                        <TextBox x:Name="txtCadCpf" KeyboardNavigation.TabIndex="2" TextWrapping="NoWrap"  Canvas.Left="144" Canvas.Top="88" Margin="157,113,78,184" FontSize="18"/>
+                        <TextBox x:Name="txtCadEmail" KeyboardNavigation.TabIndex="1" TextWrapping="NoWrap"  Canvas.Left="144" Canvas.Top="88" Margin="157,82,78,215" FontSize="18"/>
+                        <PasswordBox x:Name="txtCadSenha" KeyboardNavigation.TabIndex="3" Canvas.Left="144" Canvas.Top="129" Margin="157,144,78,152" FontSize="18"/>
+                        <PasswordBox x:Name="txtCadConfirmaSenha" KeyboardNavigation.TabIndex="4" Margin="157,176,78,121" FontSize="18"/>
+                        <Label Content="Nome Completo" HorizontalAlignment="Left" Margin="109,51,0,0" VerticalAlignment="Top" Width="43"/>
+                        <Label Content="Email" HorizontalAlignment="Left" Margin="114,82,0,0" VerticalAlignment="Top"/>
+                        <Label Content="CPF" HorizontalAlignment="Left" Margin="122,113,0,0" VerticalAlignment="Top"/>
+                        <Label Content="Senha" HorizontalAlignment="Left" Margin="110,145,0,0" VerticalAlignment="Top"/>
+                        <Label Content="Dados divergentes" x:Name="lbSenhaDiferente" Visibility="Hidden" Foreground="#990033" HorizontalAlignment="Left" Margin="140,137,0,0" VerticalAlignment="Top"/>
+                        <Label Content="Cadastrado com sucesso" x:Name="lbSucesso" Visibility="Hidden" Foreground="Green" HorizontalAlignment="Left" Margin="154,-4,0,0" VerticalAlignment="Top" FontSize="14"/>
+                        <Label Content="Confirmar Senha" HorizontalAlignment="Left" Margin="54,176,0,0" VerticalAlignment="Top" Width="98"/>
+
+                    </Grid>
+                </GroupBox>
+
+                <Grid x:Name="gdMensagem" Height="216" Visibility="Hidden" Width="342" Canvas.Left="82">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="19*"/>
+                        <RowDefinition Height="5*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Rectangle Fill="#FF000000" HorizontalAlignment="Left" Height="338"  VerticalAlignment="Top" Width="487" Opacity="0.9" Margin="-79,0,-66,-122" Grid.RowSpan="2"/>
+                    <Border x:Name="mask" CornerRadius="7" Margin="-21,0,-11,-28" Height="244" VerticalAlignment="Bottom" Grid.RowSpan="2">
+                        <Border.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black" Offset="0.239"/>
+                                <GradientStop Color="#FF2A3149" Offset="1"/>
+                                <GradientStop Color="#FF181B25" Offset="0.743"/>
+                                <GradientStop Color="#FF242A3E" Offset="0.917"/>
+                                <GradientStop Color="#FF363D51" Offset="0.974"/>
+                                <GradientStop Color="#FE0B0D12" Offset="0.504"/>
+                                <GradientStop Color="Black"/>
+                            </LinearGradientBrush>
+                        </Border.Background>
+                    </Border>
+
+                    <Label Foreground="White" HorizontalAlignment="Left" Margin="26,61,0,0" VerticalAlignment="Top" Height="110" Width="284">
+                        <TextBox x:Name="msgTexto" BorderBrush="#FFF" Background="Transparent" TextAlignment="Justify"  TextWrapping="Wrap" Foreground="White"  
+                			MaxLength="186" Height="100" Width="274" MouseEnter="msgTexto_MouseEnter"/>
+                    </Label>
+                    <Label HorizontalAlignment="Left" Margin="84,10,0,0" VerticalAlignment="Top" Width="202" Height="45">
+                        <TextBox x:Name="msgTitulo" Background="Transparent" BorderBrush="#FFF" Text="" Foreground="White" TextAlignment="Center" Height="35" TextWrapping="Wrap" 
+                			MaxLength="17" Width="192" IsReadOnly="True" FontWeight="Bold" FontSize="20" MouseEnter="msgTitulo_MouseEnter"/>
+                    </Label>
+
+                    <my:KinectToggleButton BorderBrush="White" x:Name="btnOk" Content="OK" Height="45" FontSize="24"  Foreground="White" Width="161" HorizontalAlignment="Left" Margin="90,10,0,-10" Click="btnOk_Click" VerticalAlignment="Top" FontFamily="MoolBoran" Grid.Row="1">
+                        <my:KinectToggleButton.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF379722"/>
+                                <GradientStop Color="#FF33A61A" Offset="1"/>
+                                <GradientStop Color="#FF296E1A" Offset="0.426"/>
+                                <GradientStop Color="#FE30881D" Offset="0.996"/>
+                                <GradientStop Color="#FF3C8D2B" Offset="0.822"/>
+                            </LinearGradientBrush>
+                        </my:KinectToggleButton.Background>
+                    </my:KinectToggleButton>
+
+                    <Image HorizontalAlignment="Right" Height="30" Margin="0,18,266,0" VerticalAlignment="Top" Width="33" Source="Imagens/attention.png">
+                        <Image.OpacityMask>
+                            <ImageBrush ImageSource="Imagens/attention.png"/>
+                        </Image.OpacityMask>
+                    </Image>
+                </Grid>
+
+            </Canvas>
+
+        </k:KinectRegion>
+
+
+    </Grid>
+</Window>

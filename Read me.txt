@@ -1,0 +1,27 @@
+Essa versão já consegue detectar a mão para poder clicar no botão tipo tooglebutton do kinect.
+A mão está restrita a uma área perto dos botões.
+
+Dia 11/10/2016
+Adicionamos um cronômetro e pontuação para poder trabalhar com tempo que a pessoa tem para executar a pose e os pontos que a pessoa
+vai ganhar ou perder (ganha se conseguir fazer a pose e perde se o cronômetro chegar a 0) 
+
+19/10/2016
+A fase um foi feita. 
+Há 4 pares, porém apenas 3 funcionam. Precisamos verificar o que acontece com o par 4.
+O software já verifica se os pares escolhidos estão certos ou errados. Caso certo, adiciona 1 ponto. Caso errado, tira um ponto.
+Assim que a pessoa forma 3 pares (pq o 4 não funciona) a fase um está completa e mostra mensagem de sucesso.
+Dia 20: fazendo pesquisa sobre como fazer mensagem interativa para o kinect. Sem sucesso.
+
+23/10/2016
+Conexão com banco funcionando. DAO e VO de usuário e fase 1 prontos.
+Cadastro, login e escolha de fases estão prontos. 
+Pontuação do usuário e data já estão sendo salvos no banco para a fase 1. Há uma sugestão de mensagem para usuário. Agora é preciso
+testar para ver se ela funciona com kinect conectado.
+Ordem do tab de login, cadastro e escolha de fase está correta.
+
+31/10/2016
+Agora não é mais necessário clicar numa postura e depois escolher se ela é certa ou errada. O sistema aleatoriamente pede uma postura 
+correta ou incorreta e a pessoa escolhe um. Depois o sistema pede a equivalente oposta e a pessoa escolhe. As outras funcionalidades continuam
+iguais, exceto que quando a pessoa perde os dados agora também são salvos no banco.
+Botões de postura correta ou incorreta estão desabilitados para não haver perigo do usuário clicar neles e estragar nossa lógica.
+Ainda precisamos reiniciar o jogo quando o usuário perder ou ganhar.

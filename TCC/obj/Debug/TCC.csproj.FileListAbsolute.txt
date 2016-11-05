@@ -1,0 +1,272 @@
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\App.g.cs
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC.g.resources
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmCadastro.baml
+C:\Users\Natalia\Desktop\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+E:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\TCC.exe.config
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.exe
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.pdb
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmCadastro.baml
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase1.baml
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase2.baml
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\MainWindow.baml
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\MainWindow.g.cs
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\App.g.cs
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC_MarkupCompile.cache
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.g.resources
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+E:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\TCC.exe
+E:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\TCC.pdb
+E:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\Microsoft.Kinect.xml
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmCadastro.baml
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase1.baml
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\MainWindow.baml
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\MainWindow.g.cs
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\App.g.cs
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC_MarkupCompile.cache
+D:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\TCC.exe.config
+D:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\TCC.exe
+D:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\TCC.pdb
+D:\01-TCC\TCC_TM\TCC\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC_MarkupCompile.lref
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\Formularios\FrmFase2.baml
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.g.resources
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.exe
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.pdb
+D:\01-TCC\TCC_TM\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\Formularios\FrmCadastro.baml
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC - Copia\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\TCC - Copia\TCC\bin\Debug\TCC.exe.config
+C:\Users\Natalia\Desktop\TCC - Copia\TCC\obj\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC - Copia\TCC\obj\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\App.g.cs
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\bin\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\bin\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmCadastro.baml
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Natalia\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmCadastro.baml
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC - 18_10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\Formularios\FrmCadastro.g.cs
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\Formularios\FrmCadastro.baml
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC - 20_10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC - 21_10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\bin\Debug\TCC.exe
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\bin\Debug\TCC.pdb
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\App.g.cs
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Natalia\Desktop\TCC - 23_10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC - 24_10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\bin\Debug\TCC.exe.config
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.exe
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.pdb
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\bin\Debug\TCC.exe
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\bin\Debug\TCC.pdb
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\bin\Debug\Microsoft.Kinect.xml
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\App.g.cs
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\MainWindow.baml
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.g.resources
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\031147341\Desktop\TCC -31 _10\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\bin\Debug\TCC.exe.config
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\bin\Debug\TCC.exe
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\bin\Debug\TCC.pdb
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\Formularios\FrmFase1.g.cs
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\Formularios\FrmFase2.g.cs
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\MainWindow.g.cs
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\App.g.cs
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC_MarkupCompile.cache
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC_MarkupCompile.lref
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\Formularios\FrmFase1.baml
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\Formularios\FrmFase2.baml
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\MainWindow.baml
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC.g.resources
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Juliosad\Desktop\TCC -10-11\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
